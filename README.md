@@ -20,9 +20,9 @@ Alle Commands
 ;;userinfo = Sendet deine Info
 ;;ban = Bannt den in der Nachricht erwähnten User
 ;;kick = Kickt den in der Nachricht erwähnten User
-;;play (YT Link) = Spielt Musik ab (ACHTUNG NUR YT LINKS) (MUSIK BETA)
-;;skip = Überspringt den aktuellen Song
-;;stop = Überspringt den aktuellen Song
+;;whois = Sendet deine ID
+;;vote = Sendet die Vote Links
+;;roll = Würfelt für dich!
 ```
 ### Support oder Kontakt
 
